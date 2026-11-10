@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.dll
+*.rsp
+# never commit game data: ROMs, extracted assets, built packs
+*.z64
+*.n64
+*.v64
+*.iso
+*.rvz
+*.gcm
+oot-decomp/
+oot-pack/
+packs/
+vtex/
+vmat/
